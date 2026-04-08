@@ -49,6 +49,19 @@ AppData/
 .antigravity/
 Applications/
 
+# Screenshots and temp files
+*.png
+screenshot_*.png
+wechat_*.png
+masu_homepage.png
+
+# Temp files
+*.tar.gz
+*.sh
+cli/
+skillhub.tar.gz
+install_skillhub.sh
+
 # Exclude everything by default
 /*
 !.opencode/
@@ -57,3 +70,4 @@ Applications/
 !wechat-mcp/
 !README.md
 !.gitignore
+!self-improving-agent-summary.md
