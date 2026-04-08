@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots and temp files
+*.png
+!elite-memory/**/*.png
+screenshot_*.png
+wechat_*.png
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Learnings (local)
+.learnings/
+
+# Node
+node_modules/
+
+# User directories
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+AppData/
+.android/
+.antigravity/
+Applications/
+
+# Exclude everything by default
+/*
+!.opencode/
+!elite-memory/
+!windows-control/
+!wechat-mcp/
+!README.md
+!.gitignore
