@@ -1,0 +1,23 @@
+# Skills
+
+- **algorithmic-art** – Generate algorithmic art with p5.js (generative visuals, flow fields, particle systems).
+- **brand-guidelines** – Apply Anthropic’s official brand colors and typography to artifacts.
+- **canvas-design** – Create original visual designs (posters, artwork) in PNG/PDF format.
+- **claude-api** – Build applications using the Claude API or Anthropic SDK.
+- **doc-coauthoring** – Structured workflow for co‑authoring documentation, specs, proposals, etc.
+- **docx** – Create, read, edit, and manipulate Word (.docx) documents.
+- **frontend-design** – Produce high‑quality, production‑grade frontend interfaces and components.
+- **internal‑comms** – Write internal communications (status reports, newsletters, incident reports).
+- **masu_gra** – 专业格式编辑马鞍山学院毕业论文和设计文档。
+- **mcp-builder** – Guide for building Model Context Protocol (MCP) servers and tools.
+- **pdf** – Work with PDF files (extract, merge, split, watermark, OCR, etc.).
+- **ppt-generator** – 将文本稿件自动生成乔布斯风格的竖屏 HTML 演示稿。
+- **pptx** – Create, read, edit, and manipulate PowerPoint (.pptx) presentations.
+- **self-improvement** – Capture learnings, errors, and corrections to improve the agent.
+- **skill-creator** – Create, modify, and evaluate custom OpenCode skills.
+- **slack-gif-creator** – Generate animated GIFs optimized for Slack usage.
+- **template-skill** – Placeholder for defining new custom skills.
+- **theme-factory** – Apply and generate visual themes for docs, slides, web pages, etc.
+- **web-artifacts-builder** – Build complex interactive HTML artifacts with React, Tailwind, shadcn/ui.
+- **webapp-testing** – Test local web applications using Playwright (UI verification, screenshots).
+- **xlsx** – Manipulate spreadsheet files (.xlsx, .csv, .tsv) – reading, editing, creating, converting.
